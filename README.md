@@ -12,7 +12,7 @@ My journey in information technology and end user support has led me to develop 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Port Scanning & Monitoring                    | <a href="https://github.com/GDHarrison/My-Tools/tree/main">Network-Scanning</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -53,7 +53,7 @@ My journey in information technology and end user support has led me to develop 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/GDHarrison/My-Tools/tree/main">Network-Scanning</a>
 - SOC Automation Project
 - Port Scanner
 - Key Logger
