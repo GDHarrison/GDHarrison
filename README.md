@@ -14,8 +14,8 @@ My journey in information technology and end user support has led me to develop 
 |-----------------------------------------------|----------------------------|
 | Port Scanning & Monitoring                    | <a href="https://github.com/GDHarrison/Network-Scanning-Tools/tree/main">Network Scanning Tools</a>|
 | Ethical Hacking                               | <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Key Stroke</a>|
-| Fortinet Seccurity Fabric Setup               | SOC Automation Lab|
-| Penetration Testing                           | SOC Automation Lab|
+| Fortinet Seccurity Fabric Setup               | <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Fortinet Security Fabric</a>|
+| Penetration Testing                           | <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Penetration Testing</a>|
 
 
 ## Tools
