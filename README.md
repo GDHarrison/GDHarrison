@@ -15,6 +15,8 @@ My journey in information technology and end user support has led me to develop 
 | Ethical Hacking                               | <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Key Stroke</a>|
 | Fortinet Seccurity Fabric Setup               | <a href="https://github.com/GDHarrison/Fortinet-Security-Fabric/tree/main">Fortinet Security Fabric</a>|
 | Penetration Testing                           | <a href="https://github.com/GDHarrison/Penetration-Testing/tree/main">Penetration Testing</a>|
+| Audit Review                                  | <a href="https://github.com/GDHarrison/Audit-Review/tree/main">Audit Review</a>|
+| ATM Installations                              | <a href="https://github.com/GDHarrison/ATM-Installation">ATM Installations</a>|
 
 
 ## Tools
