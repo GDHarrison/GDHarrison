@@ -40,13 +40,12 @@ My journey in information technology and end user support has led me to develop 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet_NSE4-FF0000?&style=for-the-badge&logo=Fortinet&logoColor=white" alt="Fortinet NSE4 Badge" />
+<img src="https://img.shields.io/badge/-Fortinet_Cybersecurity_Associate-FF0000?&style=for-the-badge&logo=Fortinet&logoColor=white" alt="Fortinet Cybersecurity Associate Badge" />
+<img src="https://img.shields.io/badge/-ISC2_CC-00A100?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity Badge" />
+<img src="https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Certified Cloud Practitioner Badge" />
+<img src="https://img.shields.io/badge/-ITIL_v3-525252?&style=for-the-badge&logo=ITIL&logoColor=white" alt="ITIL v3 Badge" />
 </div>
 
 ## Projects
