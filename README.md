@@ -30,15 +30,13 @@ My journey in information technology and end user support has led me to develop 
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-McAfee_Endpoint_Security-ED1C24?&style=for-the-badge&logo=McAfee&logoColor=white" alt="McAfee Endpoint Security Badge" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Endpoint_Configuration_Manager-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="MECM Badge" />
+    <img src="https://img.shields.io/badge/-Fortinet_SIEM-FF0000?&style=for-the-badge&logo=Fortinet&logoColor=white" alt="Fortinet SIEM Badge" />
 </div>
 
 ## Certifications
