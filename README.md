@@ -13,7 +13,7 @@ My journey in information technology and end user support has led me to develop 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Port Scanning & Monitoring                    | <a href="https://github.com/GDHarrison/Network-Scanning-Tools/tree/main">Network Scanning Tools</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Key Stroke</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
