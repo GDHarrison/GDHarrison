@@ -14,10 +14,9 @@ My journey in information technology and end user support has led me to develop 
 |-----------------------------------------------|----------------------------|
 | Port Scanning & Monitoring                    | <a href="https://github.com/GDHarrison/Network-Scanning-Tools/tree/main">Network Scanning Tools</a>|
 | Ethical Hacking                               | <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Key Stroke</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Fortinet Seccurity Fabric Setup               | SOC Automation Lab|
+| Penetration Testing                           | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
