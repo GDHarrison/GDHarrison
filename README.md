@@ -8,7 +8,6 @@ I am a Cybersecurity and IT Service Analyst with a profound interest in technolo
 My journey in information technology and end user support has led me to develop a passion for cybersecurity, and I am eager to transition fully into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,6 @@ My journey in information technology and end user support has led me to develop 
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
