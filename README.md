@@ -15,7 +15,7 @@ My journey in information technology and end user support has led me to develop 
 | Port Scanning & Monitoring                    | <a href="https://github.com/GDHarrison/Network-Scanning-Tools/tree/main">Network Scanning Tools</a>|
 | Ethical Hacking                               | <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Key Stroke</a>|
 | Fortinet Seccurity Fabric Setup               | <a href="https://github.com/GDHarrison/Fortinet-Security-Fabric/tree/main">Fortinet Security Fabric</a>|
-| Penetration Testing                           | <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Penetration Testing</a>|
+| Penetration Testing                           | <a href="https://github.com/GDHarrison/Penetration-Testing/tree/main">Penetration Testing</a>|
 
 
 ## Tools
@@ -52,4 +52,4 @@ My journey in information technology and end user support has led me to develop 
 - <a href="https://github.com/GDHarrison/Network-Scanning-Tools/tree/main">Network Scanning Tools</a>
 - <a href="https://github.com/GDHarrison/Key-Stroke/tree/main">Key Stroke</a>
 - <a href="https://github.com/GDHarrison/Fortinet-Security-Fabric/tree/main">Fortinet Security Fabric</a>
-- Penetration Testing
+- <a href="https://github.com/GDHarrison/Penetration-Testing/tree/main">Penetration Testing</a>
